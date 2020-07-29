@@ -4,7 +4,7 @@ using System.Linq;using System.Text;
 
 namespace Hello
 {
-    struct Train: IComparable
+    class Train: IComparable
     {
         
         public string StartPlace;
